@@ -1,14 +1,29 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I+am+Javohir+Xasanov👨‍💻&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I+am+Javohir+Xasanov&amp;center=true&amp;size=30">
   </a>
 </h1>
 
 ### About me
 
 <p align="justify">
-  <pre>I am a Go backend, data science, and machine learning developer passionate about building intelligent systems. 
-    I enjoy tackling complex challenges at the intersection of code and data analysis.</pre>
+  I am a passionate and dedicated Golang developer with experience in building scalable and efficient applications. With a strong foundation in computer science and hands-on expertise in various technologies, I have successfully contributed to multiple projects, ranging from RESTful APIs to microservices architecture.
+</p>
+<p align="justify">
+  My technical skills include proficiency in Golang, Python, Docker, PostgreSQL, MySQL, MongoDB, Redis, Kafka, and RabbitMQ. I am well-versed in using tools like Swagger for API documentation and have experience with gRPC for high-performance service communication.
+</p>
+<p align="justify">
+  In addition to my technical expertise, I have a keen interest in cloud technologies and have worked with AWS to deploy and manage applications. I am constantly learning and exploring new technologies to stay up-to-date with industry trends and best practices.
+</p>
+<p align="justify">
+  Currently, I am focused on enhancing my skills in distributed systems and contributing to open-source projects. I am also an active member of the developer community, participating in hackathons and coding competitions to challenge myself and collaborate with other developers.
+</p>
+<p align="justify">
+  I am open to new opportunities and look forward to contributing to innovative projects that make a difference.
+</p>
+
+
+
   <p align="center">
     <a href="https://www.linkedin.com/in/javohir-xasanov" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" /> </a>
     <a href="https://gitlab.com/Javokhdev/" alt="Gitlab"> <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/Javokhdev/"/> </a>
@@ -21,7 +36,8 @@
 
 </p>
 
-<h6 align="center">Technologies I know or am studying:</h6>
+<h4 align="center">Technologies I am proficient in:</h4>
+
 
 ###
 
