@@ -27,7 +27,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/javohir-xasanov" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javohir-xasanov" /> </a>
     <a href="https://gitlab.com/Javokhdev/" alt="Gitlab"> <img src="https://img.shields.io/badge/-Gitlab-fe7f09?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/Javokhdev/"/> </a>
-    <a href = "javokhdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+      <a href="mailto:javokhdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
     <a href="https://t.me/javohir_khasanov"> <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"> </a>
     <a href="https://www.youtube.com/channel/UCqickl2xcjCYFWB1sNzKldA/" alt="YouTube"> <img src="https://img.shields.io/badge/-YouTube-fe090e?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqickl2xcjCYFWB1sNzKldA/"/> </a>
     
