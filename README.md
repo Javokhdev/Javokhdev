@@ -52,10 +52,6 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" height="38" alt="ubuntu logo" />
   <img width="5" />
-  <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" height="38" alt="swagger-ui logo" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" height="38" alt="ubuntu logo" />
-  <img width="5" />
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="38" alt="gin logo" />
   <img width="5" />
   <img src="https://grpc.io/img/logos/grpc-icon-color.png" height="38" alt="grpc logo" />
