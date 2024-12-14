@@ -81,7 +81,7 @@
 </div>
 
 ### GitHub Contributions Breakdown:
-[![GitHub Profile](https://img.shields.io/badge/Check%20out%20my%20GitHub%20Profile-blue)](https://github.com/Javokhdev)
+![GitHub Contributions](https://raw.githubusercontent.com/Javokhdev/Javokhdev/main/assets/your_contribution_chart.png)
 
 
 
