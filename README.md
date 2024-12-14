@@ -81,8 +81,9 @@
 </div>
 
 ### GitHub Contributions Breakdown:
-![Your stats](https://github-readme-stats.vercel.app/api?username=Javokhdev&show_icons=true&count_private=true)
-
+<p style="text-align: center; font-size: 28px;">
+  <a href="https://github.com/Javokhdev" style="color: #0077b6;">Check out my contributions on my GitHub Profile</a>
+</p>
 
 
 
