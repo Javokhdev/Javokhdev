@@ -78,12 +78,5 @@
   <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" height="38" alt="aws logo" />
 
 
-
 </div>
-<hr>
 
-
-
-<div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=javokhdev&style=for-the-badge" alt="javokhdev" />
-</div>
