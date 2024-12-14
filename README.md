@@ -80,3 +80,9 @@
 
 </div>
 
+### GitHub Contributions Breakdown:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Javokhdev/Javokhdev/main/assets/radial-chart.png" alt="GitHub Contribution Activity" width="400" />
+</p>
+
+
