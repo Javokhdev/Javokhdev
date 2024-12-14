@@ -81,7 +81,7 @@
 </div>
 
 ### GitHub Contributions Breakdown:
-![GitHub Contribution Activity](https://raw.githubusercontent.com/Javokhdev/Javokhdev/main/assets/radial-chart.png)
+![Your stats](https://github-readme-stats.vercel.app/api?username=Javokhdev&show_icons=true&count_private=true)
 
 
 
