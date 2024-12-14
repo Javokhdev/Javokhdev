@@ -81,7 +81,7 @@
 </div>
 
 ### GitHub Contributions Breakdown:
-### :star: **Check out my contributions on my [GitHub Profile](https://github.com/Javokhdev)!**
+![Check out my GitHub Profile](https://raw.githubusercontent.com/Javokhdev/Javokhdev/main/assets/github-profile-image.png)
 
 
 
