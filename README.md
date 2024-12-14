@@ -38,16 +38,16 @@ I am a passionate Golang developer with experience in building scalable and effi
     </a>
 </p>
 
-### Technologies:
+---
+
+### GitHub Contributions Breakdown:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=golang,py,c,docker,postgres,mysql,mongo,redis,kafka,rabbitmq,swagger,ubuntu,gin,grpc,aws" height="38" alt="technologies" />
+  <img src="https://github.com/username/repository/blob/main/path-to-radial-chart.png" alt="GitHub Contribution Activity" width="400" />
 </p>
 
 ---
 
-### GitHub Statistics:
+### Technologies:
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javokhdev&theme=default" alt="GitHub Profile Summary" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javokhdev&theme=default" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javokhdev&theme=default" alt="Most Commit Language" />
+  <img src="https://skillicons.dev/icons?i=golang,py,c,docker,postgres,mysql,mongo,redis,kafka,rabbitmq,swagger,ubuntu,gin,grpc,aws" height="38" alt="technologies" />
 </p>
