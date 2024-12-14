@@ -81,5 +81,5 @@
 </div>
 
 ### GitHub Contributions Breakdown:
-![Your stats](https://github-readme-stats.vercel.app/api?username=Javokhdev&show_icons=true&count_private=true&hide_title=true&bg_color=000000)
+![Your stats](https://github-readme-stats.vercel.app/api?username=Javokhdev&show_icons=true&count_private=true&bg_color=1E90FF)
 
