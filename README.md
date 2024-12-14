@@ -82,11 +82,6 @@
 </div>
 <hr>
 
-<hr>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javokhdev&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javokhdev&theme=cobalt2) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=javokhdev&theme=cobalt2)
 
 
 <div>
