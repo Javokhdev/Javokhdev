@@ -81,8 +81,8 @@
 </div>
 
 ### GitHub Contributions Breakdown:
-<p style="text-align: center; font-size: 28px;">
-  <a href="https://github.com/Javokhdev" style="color: #0077b6;">Check out my contributions on my GitHub Profile</a>
+<p style="text-align: center; font-size: 24px;">
+  <a href="https://github.com/Javokhdev" style="color: #0077b6; text-decoration: none;" onmouseover="this.style.color='#00b4d8'" onmouseout="this.style.color='#0077b6'">Check out my contributions on my GitHub Profile</a>
 </p>
 
 
